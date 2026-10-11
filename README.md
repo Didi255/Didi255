@@ -14,6 +14,6 @@
 <img src="assets/milestones.svg" width="100%" alt="Milestones: NVIDIA DLI Accelerated Data Science (2025), HackerRank Python gold badge (2025), 5th of 15 at Deploy Sprint (2026), 1st runners-up at OctWave 3.0 (2026).">
 
 <p>
-  <a href="https://linkedin.com/in/dihini-kandegedara"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dihini-kandegedara-646775317/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
   <a href="mailto:dihinikandegedara@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email"></a>
 </p>
