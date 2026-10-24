@@ -4,12 +4,6 @@
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, TypeScript, JavaScript, HTML/CSS, FastAPI, Supabase, MongoDB, Next.js, Tailwind CSS, Git. Learning PyTorch, OpenCV and MLOps.">
 
-<p>
-  <a href="#"><img src="assets/card-montessoripay.svg" width="49%" alt="MontessoriPay: client project for Chirpy Kids Montessori"></a>
-  <a href="#"><img src="assets/card-pipe-leak.svg" width="49%" alt="Pipe leak detection: team project, 1st runners-up at OctWave 3.0"></a>
-  <a href="#"><img src="assets/card-moh-survey.svg" width="49%" alt="MOH survey digitisation for RDHS Galle"></a>
-  <a href="#"><img src="assets/card-expert-connect.svg" width="49%" alt="Expert Connect: platform connecting users with domain experts"></a>
-</p>
 
 <img src="assets/milestones.svg" width="100%" alt="Milestones: NVIDIA DLI Accelerated Data Science (2025), HackerRank Python gold badge (2025), 5th of 15 at Deploy Sprint (2026), 1st runners-up at OctWave 3.0 (2026).">
 
